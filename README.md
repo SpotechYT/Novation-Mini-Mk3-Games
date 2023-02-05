@@ -19,6 +19,15 @@ Controls/leds:
 
 ![Connect4](https://raw.githubusercontent.com/SpotechYT/Novation-Mini-Mk3-Games/main/Connect4/example.gif)
 
+## Patterns
+A Memorization Pattern Game thats 100x Harder then normal
+
+Controls/leds:
+- [1, 0] - [8, 7] playboard
+- [8, 8] kills the programs
+
+![Patterns](https://raw.githubusercontent.com/SpotechYT/Novation-Mini-Mk3-Games/main/Patterns/example.gif)
+
 ## Dance Floor
 A LED matrix that looks like a dance floor
 
