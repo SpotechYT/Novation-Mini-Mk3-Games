@@ -61,7 +61,7 @@ Run The Game
 This project is bassed on the [launchpad.py](https://github.com/FMMT666/launchpad.py) and uses some code snippets from the examples to make the controler file.
 
 Each button/light on the launchpad has an x and y value from Top-Left[0, 0] to Bottom-Right[8, 8]
-[](https://raw.githubusercontent.com/SpotechYT/Novation-Mini-Mk3-Games/main/Matrix.jpg)
+![Matrix](https://raw.githubusercontent.com/SpotechYT/Novation-Mini-Mk3-Games/main/Matrix.jpg)
 
 For more documentation, check the [launchpad.py](https://github.com/FMMT666/launchpad.py) github 
 
